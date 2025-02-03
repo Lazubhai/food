@@ -11,6 +11,7 @@ int main() {
   int nextTerm = t1 + t2;
 
   // get no. of terms from user
+  printf("Follow @benz_lens....");
   printf("Enter the number of terms: ");
   scanf("%d", &n);
 
