@@ -5,7 +5,7 @@ int main() {
   int i, n;
 
   // initialize first and second terms
-  int t1 = 0, t2 = 1;
+  int t1 = 0, t2 = 2;
 
   // initialize the next term (3rd term)
   int nextTerm = t1 + t2;
