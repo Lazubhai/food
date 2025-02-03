@@ -1,4 +1,14 @@
 # food
+
+
+
+
+
+
+
+xksuicuisdcfwe
+
+
 #include <stdio.h>
 int main() {
 
