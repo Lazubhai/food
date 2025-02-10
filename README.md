@@ -5,8 +5,6 @@
 
 
 
-NIGGA NAE NIGGA NAE NAE NIGGA NIGGA NAE NAE
-xksuicuisdcfwe
 
 
 #include <stdio.h>
@@ -33,7 +31,7 @@ int main() {
     t1 = t2;
     t2 = nextTerm;
     nextTerm = t1 + t2;
-    // ee sala cup namde
+    //
   }
 
   return 0;
